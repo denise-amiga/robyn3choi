@@ -1,0 +1,9 @@
+[submodule "optimizing-many-nodes"]
+	path = optimizing-many-nodes
+	url = git@github.com:robyn3choi/optimizing-many-nodes.git
+[submodule "mimic"]
+	path = mimic
+	url = git@github.com:robyn3choi/mimic.git
+[submodule "beatball"]
+	path = beatball
+	url = git@github.com:robyn3choi/beatball.git
